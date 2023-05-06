@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazal-haroon&label=Profile%20views&color=0e75b6&style=flat" alt="fazal-haroon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ismail4&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ismail4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fazalharoon4" target="blank"><img src="https://img.shields.io/twitter/follow/fazalharoon4?logo=twitter&style=for-the-badge" alt="fazalharoon4" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/)
 
-- 💬 Ask me about **java, spring, react js and mysql**
+- 💬 Ask me about **java, spring, mysql, and docker**
 
 - 📫 How to reach me **kharoon187@gmail.com**
 
