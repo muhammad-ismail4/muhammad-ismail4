@@ -39,5 +39,5 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact" />
  -->
 
-| <a href="https://github.com/Fazal-haroon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fazal-haroon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Fazal-haroon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/muhammad-ismail4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ismail4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/muhammad-ismail4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ismail4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
