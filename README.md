@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fazalharoon4" target="blank"><img src="https://img.shields.io/twitter/follow/fazalharoon4?logo=twitter&style=for-the-badge" alt="fazalharoon4" /></a> </p>
 
-- 🔭 I’m currently working on **Java Spring Boot**
+- 🔭 I’m currently working on **Java, Spring Boot, Microservices, Mysql, Docker and AWS**
 
-- 🌱 I’m currently learning **Spring Boot, React Js**
+- 🌱 I’m currently learning **Spring Framework, React Js, AWS, Kubernetes, Jinkens**
 
 - 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **java, spring, mysql, and docker**
 
-- 📫 How to reach me **kharoon187@gmail.com**
+- 📫 How to reach me **muhammadismailkhan28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
