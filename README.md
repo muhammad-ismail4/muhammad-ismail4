@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fazal Haroon</h1>
+<h1 align="center">Hello 👋, I'm Muhammad Ismail</h1>
 <h3 align="center">Software Developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
