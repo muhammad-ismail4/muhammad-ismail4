@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Spring Framework, React Js, AWS, Kubernetes, Jinkens**
 
-- 👨‍💻 All of my projects are available at [https://fazal-haroon.github.io/](https://fazal-haroon.github.io/)
+- 👨‍💻 All of my projects are available at [https://muhammad-ismail4.github.io/](https://muhammad-ismail4.github.io/)
 
-- 📝 I regularly write articles on [https://fazaltuts4u.blogspot.com/](https://fazaltuts4u.blogspot.com/)
+- 📝 I regularly write articles on [https://muhammad-ismail4.blogspot.com/](https://)
 
 - 💬 Ask me about **java, spring, mysql, and docker**
 
