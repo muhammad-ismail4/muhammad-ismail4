@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_ismail_khan_4" target="blank"><img src="https://img.shields.io/twitter/follow/m_ismail_khan_4?logo=twitter&style=for-the-badge" alt="m_ismail_khan_4" /></a> </p>
 
-- 🔭 I’m currently working on **Java, Spring Boot, Microservices, Mysql, Docker and AWS**
-
-- 🌱 I’m currently learning **Spring Framework, React Js, AWS, Kubernetes, Jinkens**
-
-- 👨‍💻 All of my projects are available at [https://muhammad-ismail4.github.io/](https://muhammad-ismail4.github.io/)
+- 🔭 I’m currently working on **Java, Spring Boot, Microservices, Mysql, Docker**
 
 - 📝 I regularly write articles on [https://muhammad-ismail4.blogspot.com/](https://)
 
